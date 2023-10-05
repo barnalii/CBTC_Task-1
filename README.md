@@ -2,7 +2,7 @@
 PORTFOLIO
 
 I created a personal portfolio with basic skills in CSS and HTML. This is yet again, one of the most common projects on web development for beginners. In a personal portfolio,  get to show a wide range of samples and skills and add my resume. I added an image at the top where I introduce myself, below that,  add contact information.<br>
-![Screenshot 2023-09-24 194914](https://github.com/barnalii/CBTC_Task-1/assets/130478611/23118f77-8337-4863-94f8-9daa04f03c23)
+![Screenshot 2023-10-05 122015](https://github.com/barnalii/CBTC_Task-1/assets/130478611/0267044e-f7e8-4fa9-a781-01fa6afdbbd7)
 <br>
 ![Screenshot 2023-10-04 204536](https://github.com/barnalii/CBTC_Task-1/assets/130478611/6e90f091-ed32-4fa1-9ff3-9c1a07eec8ad)
 <br>
